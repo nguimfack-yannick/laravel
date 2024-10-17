@@ -1,0 +1,15 @@
+{
+    "name": "nguimfack/ooo",
+    "autoload": {
+        "psr-4": {
+            "Nguimfack\\Ooo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguimfack yannick",
+            "email": "yannickadonfack@gmail.com"
+        }
+    ],
+    "require": {}
+}
